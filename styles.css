@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playfair+Display:ital@1&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Cairo+Play&display=swap");
 
 body {
   font-family: Arial, sans-serif;
@@ -26,7 +25,6 @@ input[type="number"] {
 h1 {
   text-align: center;
   margin-bottom: 20px;
-  font-family: "Bebas Neue", sans-serif;
   font-family: "Playfair Display", serif;
   font-size: 3.5rem;
 }
@@ -44,7 +42,7 @@ input[type="number"] {
   box-sizing: border-box;
 }
 .icon--span {
-  font-family: "Cairo Play", sans-serif;
+  font-family: "Montserrat", sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
